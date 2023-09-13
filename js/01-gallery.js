@@ -25,8 +25,6 @@ function imageSelect(event) {
     };
 
     document.addEventListener("keydown", imageClose);
-  } else {
-    return;
   }
 }
 
